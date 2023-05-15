@@ -1,0 +1,10 @@
+{
+  "packageManager": "yarn@3.5.1",
+  "dependencies": {
+    "@babel/core": "^7.21.5",
+    "@babel/preset-env": "^7.21.5",
+    "@vitejs/plugin-legacy": "^4.0.3",
+    "terser": "^5.17.1",
+    "vite": "^4.3.3"
+  }
+}
